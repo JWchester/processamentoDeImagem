@@ -29,11 +29,7 @@ consiste na aplicação da operação de convolução para obter um novo resulta
 
 o centro da matriz filtro(matriz que irá sobrepor a imagem) será posicionado em todos os pixels dessa mesma imagem. os pixels que serão captados serão multiplicados e somados. dessa forma, tem-se o resultado da transformação do primeiro pixel da imagem. Observe os passos de uma convolução entre uma imagem e um filtro genérico:
 
-<div align = "left">
-<img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/conv1.png" width = 600px /> </div> 
-<img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/conv2.png" width = 600px /> </div> 
-<img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/conv3.png" width = 600px /> </div> 
-<img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/conv4.png" width = 600px /> </div> 
+
 
 
 
