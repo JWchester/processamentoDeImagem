@@ -46,7 +46,7 @@ o centro do filtro(matriz que irá sobrepor a imagem) será posicionado em todos
 
 
 A operação continua até passar por todos os pixels da imagem. baseado nisso, tem-se o filtro convolucional. </br>
-para utilizar o filtro convolucional será utilizado o filtro blur que consiste em uma matriz de 1´s onde cada posição é multiplicada por $\ \huge{ 1 \over {Elementos}}$. a matriz de convolução dever ser quadrada e composta  por dimensões impares maiores ou iguais a 3. Quanto maior a matriz mais intenso são os efeitos. observe o exemplo: 
+para utilizar o filtro convolucional será utilizado o filtro blur que consiste em uma matriz de 1´s onde cada posição é multiplicada por $\ \huge{ 1 \over {NºElementos}}$. a matriz de convolução dever ser quadrada e composta  por dimensões impares maiores ou iguais a 3. Quanto maior a matriz mais intenso são os efeitos. observe o exemplo: 
 
 
 <div align = "center">
@@ -54,5 +54,5 @@ para utilizar o filtro convolucional será utilizado o filtro blur que consiste 
   <img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/Filtro%20blur(3x3%20e%205x5).png" width = 1000px />
 	 <figcaption>  Figura 3 - Dois filtros do tipo blur com diferentes intensidades</figcaption> </figure></div>
    
-acesse o link do arquivo do google collab [GitHub Pages](https://pages.github.com/)
+acesse o link do arquivo do google collab clicando em [Filtro Convolucional](https://pages.github.com/)
 
