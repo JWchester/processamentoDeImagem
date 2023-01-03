@@ -1,6 +1,6 @@
 # Processamento de Imagem e Visão Computacional 
 
-  é uma disciplina fornecidade pelo Centro de Engenharia Elétrica e Informática ao curso de Engenharia elétrica. Disciplina que dedica a apresentação de algoritmos para processamento de imagens. O intuito que tenho com essa cadeira é obter conhecimento básico para **processamento de sinais** de maneira geral. Nessa disciplina o sinal trabalhado é apenas a imagem.
+  é uma disciplina fornecidade pelo Centro de Engenharia Elétrica e Informática ao curso de Engenharia elétrica. Disciplina que dedica a apresentação de algoritmos para processamento de imagens. O intuito que tenho com essa cadeira é obter conhecimento básico para **processamento de sinais** de maneira geral.
 
 
 ##  Objetivo Principal
