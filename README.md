@@ -8,7 +8,7 @@
   O repositório tem como objetivo ajudar com o entendimento dos algoritmos utilizados em **processamento de imagem e visão computacional**. Os algoritmos apresentados aqui serão construidos do zero e comentados com o intuito de que se possa entender como o algoritmo foi aplicado e funciona.
 
 ##  Objetivo Secundário
-  Como estudante de Engenharia, deve-se levar a serio uma das seguintes características do enegenheiro: capacidade de analisar e solucionar problemas. construir os algoritmos de processamento de imagem do zero é um desafio para aprimorar minha capacidade de analisar o problema e solucionar com as ferramentas minimas disponíveis.
+  Como estudante de Engenharia, deve-se levar a serio uma das seguintes características do engenheiro: capacidade de analisar e solucionar problemas. construir os algoritmos de processamento de imagem do zero é um desafio para aprimorar minha capacidade de analisar o problema e solucionar com as ferramentas minimas disponíveis.
   
  
 ***
