@@ -45,7 +45,7 @@ o centro do filtro(matriz que irá sobrepor a imagem) será posicionado em todos
  
 
 
-A operação continua até passar por todos os pixels da imagem. baseado nisso, tem-se o filtro convolucional. </br>
+A operação continua até passar por todos os pixels da imagem. Com isso , tem-se a imagem filtrada. </br>
 para utilizar o filtro convolucional será utilizado o filtro blur que consiste em uma matriz de 1´s onde cada posição é multiplicada por $\ \huge{ 1 \over {NºElementos}}$. a matriz de convolução dever ser quadrada e composta  por dimensões impares maiores ou iguais a 3. Quanto maior a matriz mais intenso são os efeitos. observe o exemplo: 
 
 
