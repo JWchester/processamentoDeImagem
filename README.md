@@ -54,5 +54,5 @@ para utilizar o filtro convolucional será utilizado o filtro blur que consiste 
   <img align = "center" src = "https://github.com/JWchester/Processamento-de-Imagem/blob/main/Filtro%20blur(3x3%20e%205x5).png" width = 1000px />
 	 <figcaption>  Figura 3 - Dois filtros do tipo blur com diferentes intensidades</figcaption> </figure></div> </br>
    
-acesse o link do arquivo do google colab clicando em [Filtro Convolucional]([https://github.com/JWchester/Processamento-de-Imagem/blob/main/Filtro_Convolucional.ipynb](https://colab.research.google.com/drive/1SbOYh3uuv_poCpXVb1Mo5gXV9wlv_II5?usp=sharing)https://colab.research.google.com/drive/1SbOYh3uuv_poCpXVb1Mo5gXV9wlv_II5?usp=sharing)
+acesse o link do arquivo do google colab clicando em [Filtro Convolucional](https://colab.research.google.com/drive/1SbOYh3uuv_poCpXVb1Mo5gXV9wlv_II5?usp=sharing)
 
